@@ -1,0 +1,35 @@
+{
+  "basics":{
+  "content":"To Acquire A Challenging Position In An Environment Where I Can Best Utilize My Skills And Education."
+},
+  "Achive":{
+    "details":"I won a prize in schoool"
+},
+"educationalQualifications":[{
+  "name":"BTECH",
+   "inst" : "ANDHRA LOYOLA INST OF ENG & TECHN",
+"per":"65%"
+},
+{
+  "name":"INTERMEDIATE",
+  "inst":"Sri Chaitanya",
+  "per":"88%"
+},
+
+
+{
+  "name" : "SSC",
+  "inst":"KENNEDY SCHOOL",
+  "per":"93%"
+}
+],
+"Tech":[{
+  "name":"Operating System :",
+  "value":"Windows,Linux, etc..,"
+},
+{
+  "name":"Languages :",
+  "value":"HTML5,CSS3,JavaScript"
+}
+]
+}

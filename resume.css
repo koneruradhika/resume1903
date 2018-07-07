@@ -1,0 +1,51 @@
+.main{
+background: grey;
+width:100%;
+display: flex;
+justify-content: space-between;
+}
+.left{
+  background: cyan;
+  width:30%;
+  text-align: center;
+}
+.left img{
+  width:30%;
+}
+.right{
+  background: grey;
+  width:50%;
+}
+@media only screen and (min-device-width:360px) and (max-device-width:470px){
+
+}
+.main{
+width: 100%;
+flex-direction: column;
+}
+.left{
+  width:100%;
+  flex-wrap: wrap;
+}
+.left1{
+  width: 100%;
+}
+.right{
+  width: 50%;
+}
+
+@media only screen and (min-device-width:350px) and (max-device-width:460px){
+
+}
+.main{
+width : 100%;
+flex-wrap: wrap;
+}
+.left{
+  width:100%;
+display: flex;
+}
+.right{
+  width:90%;
+  display: flex;
+}
